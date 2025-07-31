@@ -13,19 +13,25 @@ This is a basic **Login and Registration System** built using C++. It allows use
 ## 💻 Output Example
 
 1.Register
+
 2.Login
+
 3.Exit
 
 Enter your choice: 1
 
 Enter username: eman
+
 Enter password: ****
+
 User registered successfully!
 
 Enter your choice: 2
 
 Enter username: eman
+
 Enter password: ****
+
 Login successful!
 
 
